@@ -32,11 +32,11 @@ Files Used
 
 The required files for running this program are:
 
-washington.csv
+washington
 
-new_york_city.csv
+new_york_city
 
-chicago.csv
+chicago
 
 
 Requirements
